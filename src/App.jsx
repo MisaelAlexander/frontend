@@ -5,7 +5,7 @@ function App() {
     <>
      <Router>
       <Routes>
-        <Route path='/Eventos' element={<Event/>} />
+        <Route path='/' element={<Event/>} />
       </Routes>
      </Router>
     </>
